@@ -48,4 +48,6 @@ The dashboard provides clear insights into hospital operations and helps improve
 ## 📊 Dashboard Preview
 ![Hospital Dashboard](screenshots/dashboard.png)
 
+https://github.com/param328u-del/Hospital-resource-utilization-patient-outcome-dashboard.git
+
 Author Parameshwari kumar
