@@ -45,4 +45,7 @@ All data is stored in Excel sheets and imported into Power BI for analysis.
 ## Project Outcome
 The dashboard provides clear insights into hospital operations and helps improve efficiency, planning, and resource utilization.
 
+## 📊 Dashboard Preview
+![Hospital Dashboard](screenshots/dashboard.png)
+
 Author Parameshwari kumar
