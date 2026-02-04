@@ -20,6 +20,7 @@ The dashboard supports better decision-making for hospital management.
 - Power BI
 - Microsoft Excel
 - GitHub
+- Google Drive (Deployment& Demo dashboard vedio)
 
 ## Dataset Description
 The dataset includes:
@@ -41,6 +42,10 @@ All data is stored in Excel sheets and imported into Power BI for analysis.
 1. Download the Power BI (.pbix) file from this repository.
 2. Open it using Power BI Desktop.
 3. Explore the interactive dashboard using filters and charts.
+
+## Deployment Note
+The solution is submitted as a Power BI (.pbix) file.
+Please download the file and open it using Power BI Desktop, as online preview is not supported for PBIX files.
 
 ## Project Outcome
 The dashboard provides clear insights into hospital operations and helps improve efficiency, planning, and resource utilization.
